@@ -1,0 +1,38 @@
+/*********************************************Tag SELECTORS************************/
+  body{
+    background-color:oldlace;
+  }
+
+
+  h1{
+    color:#66BFBF;
+  }
+
+  h3{
+      color:#66BFBF;
+  }
+  hr{
+
+      border-color: grey;
+      border-width: 5px;
+      border-style: none;
+      border-top-style: dotted;
+      width: 5%;
+  }
+ img{
+   height: 80px;
+ }
+
+
+/*****************************************************CLASS SELECTORS********************************/
+
+.durga-Nimmagadda{
+  background-color: white;
+}
+
+/*************************************ID SELECTORS*****************************************/
+
+
+#heading{
+  color:Blue;
+}
